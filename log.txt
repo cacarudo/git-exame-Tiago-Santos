@@ -1,0 +1,6 @@
+git clone:
+o git clone é usado para copiar um repositorio inteiro para o computador copiando todos os ficheiros atuais de branches, commits, configuraçoes etc... como tambem o seu historico.
+git add:
+Seleciona quais os ficheiros que vao tomar commit
+git commit:
+serve para guardar as alteraçoes com um comentario das alteraçoes feitas.
